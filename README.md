@@ -1,6 +1,6 @@
 # 🤖 TDDE01 - Machine Learning
 
-TDDE01 is a Machine Learning course taught at Linköping University, Sweden. I attended it during the fall of 2022.
+TDDE01 is a Machine Learning course taught at Linköping University, Sweden. I attended it during the fall of 2022 and was a teacher during the fall of 2023.
 The course introduces most of the basic statistical models used in machine learning, as well as introducing kernels, SVMs, and neural networks.
 
 ---
